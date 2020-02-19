@@ -21,7 +21,7 @@ namespace TestsForSolutions
         [InlineData("([{})", false)]
         [InlineData("([{)}", false)]
         [InlineData("([{])}", false)]
-        public void IsValid_WithProvidedString_ReturnsProperResult(string parenthesisString, bool result)
+        public void IsValid_WithProvidedString_ReturnsExpectedResult(string parenthesisString, bool result)
         {
             var validParenthesis = new ValidParenthesis();
 

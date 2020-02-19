@@ -14,7 +14,7 @@ namespace TestsForSolutions
         [InlineData("Hello, hello, good morning; why good! Do you do heLlo, you", new[] { "you", "good", "hello" }, "do")]
         [InlineData("Hello", new string[] {} , "hello")]
         [InlineData("q, r, t; t' r' q; t;", new [] {"q"} , "t")]
-        public void MostCommonWord(string paragraph, string[] banned, string mostCommonWord)
+        public void MostCommonWord_WithProvidedString_ReturnsExpectedResult(string paragraph, string[] banned, string mostCommonWord)
         {
             // Arrange
             var commonWord = new CommonWord();
