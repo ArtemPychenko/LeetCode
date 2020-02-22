@@ -1,8 +1,8 @@
-﻿using EasyLevel.Strings.Solution.SmallestCharacterFrequencyComparer;
-using FluentAssertions;
+﻿using FluentAssertions;
+using Strings.Solution.SmallestCharacterFrequencyComparer;
 using Xunit;
 
-namespace TestsForSolutions
+namespace TestsForSolutions.Strings
 {
     public class SmallestCharacterFrequencyComparerFixture
     {

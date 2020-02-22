@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace EasyLevel.Strings.Solution.ReorderDataInLogFiles
+namespace Strings.Solution.ReorderDataInLogFiles
 {
     public class DataOrderInLogFiles
     {

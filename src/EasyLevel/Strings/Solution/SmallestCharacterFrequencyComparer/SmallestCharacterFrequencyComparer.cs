@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace EasyLevel.Strings.Solution.SmallestCharacterFrequencyComparer
+namespace Strings.Solution.SmallestCharacterFrequencyComparer
 {
     public class SmallestCharacterFrequencyComparer
     {

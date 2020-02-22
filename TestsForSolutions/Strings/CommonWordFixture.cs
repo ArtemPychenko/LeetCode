@@ -1,8 +1,8 @@
-﻿using EasyLevel.Strings.Solution.CommonWord;
-using FluentAssertions;
+﻿using FluentAssertions;
+using Strings.Solution.CommonWord;
 using Xunit;
 
-namespace TestsForSolutions
+namespace TestsForSolutions.Strings
 {
     public class CommonWordFixture
     {

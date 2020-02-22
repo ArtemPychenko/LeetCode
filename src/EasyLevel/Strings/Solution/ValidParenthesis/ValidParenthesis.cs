@@ -1,7 +1,7 @@
 ﻿
 using System.Collections.Generic;
 
-namespace EasyLevel.Strings.Solution.ValidParenthesis
+namespace Strings.Solution.ValidParenthesis
 {
     public class ValidParenthesis
     {

@@ -1,8 +1,8 @@
-using EasyLevel.Strings.Solution.ValidParenthesis;
 using FluentAssertions;
+using Strings.Solution.ValidParenthesis;
 using Xunit;
 
-namespace TestsForSolutions
+namespace TestsForSolutions.Strings
 {
     public class ValidParenthesisFixture
     {

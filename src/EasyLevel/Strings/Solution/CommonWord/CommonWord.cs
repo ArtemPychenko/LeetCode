@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text;
 
-namespace EasyLevel.Strings.Solution.CommonWord
+namespace Strings.Solution.CommonWord
 {
     public class CommonWord
     {

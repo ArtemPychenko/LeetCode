@@ -1,8 +1,8 @@
-﻿using EasyLevel.Strings.Solution.ReorderDataInLogFiles;
-using FluentAssertions;
+﻿using FluentAssertions;
+using Strings.Solution.ReorderDataInLogFiles;
 using Xunit;
 
-namespace TestsForSolutions
+namespace TestsForSolutions.Strings
 {
     public class DataOrderInLogFilesFixture
     {
