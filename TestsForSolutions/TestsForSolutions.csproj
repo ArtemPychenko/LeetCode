@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\src\EasyLevel\Arrays\Arrays.csproj" />
     <ProjectReference Include="..\src\EasyLevel\Strings\Strings.csproj" />
+    <ProjectReference Include="..\src\EasyLevel\Math\Math.csproj" />
   </ItemGroup>
 
 </Project>

@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "src\EasyLevel\St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForSolutions", "TestsForSolutions\TestsForSolutions.csproj", "{47A49016-8D74-4BBE-BB9E-D7D0339DA2AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "src\EasyLevel\Arrays\Arrays.csproj", "{D1086C4C-4E6F-48C9-9E51-15F8A7422517}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "src\EasyLevel\Arrays\Arrays.csproj", "{D1086C4C-4E6F-48C9-9E51-15F8A7422517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "src\EasyLevel\Math\Math.csproj", "{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D1086C4C-4E6F-48C9-9E51-15F8A7422517}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1086C4C-4E6F-48C9-9E51-15F8A7422517}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1086C4C-4E6F-48C9-9E51-15F8A7422517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
