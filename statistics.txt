@@ -5,4 +5,4 @@ February:
 9 problems solved before 24.02
 
 24.02 - 118(n), 66(n), 1086(s)
-25.02 - 189 (n), 26(s)
+25.02 - 189 (n), 26(s), 414(s)
