@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForSolutions", "TestsF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "src\EasyLevel\Arrays\Arrays.csproj", "{D1086C4C-4E6F-48C9-9E51-15F8A7422517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "src\EasyLevel\Math\Math.csproj", "{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "src\EasyLevel\Math\Math.csproj", "{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "src\EasyLevel\HashTable\HashTable.csproj", "{D4F53A84-2D76-480C-A55B-F4BA057A5A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "src\EasyLevel\LinkedLists\LinkedLists.csproj", "{3668F5AD-FC67-475F-A526-84E115CA548B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB09CEB9-C815-42AC-BD6C-6E07F72699F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4F53A84-2D76-480C-A55B-F4BA057A5A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F53A84-2D76-480C-A55B-F4BA057A5A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F53A84-2D76-480C-A55B-F4BA057A5A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F53A84-2D76-480C-A55B-F4BA057A5A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3668F5AD-FC67-475F-A526-84E115CA548B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3668F5AD-FC67-475F-A526-84E115CA548B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3668F5AD-FC67-475F-A526-84E115CA548B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3668F5AD-FC67-475F-A526-84E115CA548B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
