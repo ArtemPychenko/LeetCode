@@ -17,10 +17,7 @@
     <ProjectReference Include="..\src\EasyLevel\Arrays\Arrays.csproj" />
     <ProjectReference Include="..\src\EasyLevel\Strings\Strings.csproj" />
     <ProjectReference Include="..\src\EasyLevel\Math\Math.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="HashTable\" />
+    <ProjectReference Include="..\src\EasyLevel\HashTable\HashTable.csproj" />
   </ItemGroup>
 
 </Project>
