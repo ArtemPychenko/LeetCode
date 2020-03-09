@@ -19,6 +19,7 @@
     <ProjectReference Include="..\src\EasyLevel\Math\Math.csproj" />
     <ProjectReference Include="..\src\EasyLevel\HashTable\HashTable.csproj" />
     <ProjectReference Include="..\src\WeeklyContest\179\179.csproj" />
+    <ProjectReference Include="..\src\EasyLevel\DynamicProgramming\DynamicProgramming.csproj" />
   </ItemGroup>
 
 </Project>

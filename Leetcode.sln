@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedLists", "src\EasyLeve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "src\EasyLevel\Stacks\Stacks.csproj", "{F531328D-CF16-4A17-ACAE-32DAC55F4990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "179", "src\WeeklyContest\179\179.csproj", "{595015AA-1731-4931-98C8-B576A86EDF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "179", "src\WeeklyContest\179\179.csproj", "{595015AA-1731-4931-98C8-B576A86EDF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "src\EasyLevel\DynamicProgramming\DynamicProgramming.csproj", "{FA7ED827-C477-46ED-8B8F-089F3F955DBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{595015AA-1731-4931-98C8-B576A86EDF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595015AA-1731-4931-98C8-B576A86EDF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595015AA-1731-4931-98C8-B576A86EDF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
