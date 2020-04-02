@@ -21,3 +21,4 @@ February:
 9.03  - 412(s), 387(s)
 10.03 - 70(n)
 ---------------- Algorithms course breakout ----------------
+4.02 - 243(s) - still on course
