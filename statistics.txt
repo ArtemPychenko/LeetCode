@@ -24,3 +24,5 @@ February:
 4.04 - 243(s) - still on course
 5.04 - 122 (s) - still on course
 6.04 - 49 (s/n) - still on course
+7.04 - Counting Elements problem (no number) (s)
+8.04 - 876 (s)
