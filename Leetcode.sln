@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks", "src\EasyLevel\Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "179", "src\WeeklyContest\179\179.csproj", "{595015AA-1731-4931-98C8-B576A86EDF12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "src\EasyLevel\DynamicProgramming\DynamicProgramming.csproj", "{FA7ED827-C477-46ED-8B8F-089F3F955DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "src\EasyLevel\DynamicProgramming\DynamicProgramming.csproj", "{FA7ED827-C477-46ED-8B8F-089F3F955DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "src\EasyLevel\Trees\Trees.csproj", "{B3D13319-24AA-4802-B07B-0D1BFF2A52C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7ED827-C477-46ED-8B8F-089F3F955DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D13319-24AA-4802-B07B-0D1BFF2A52C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D13319-24AA-4802-B07B-0D1BFF2A52C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D13319-24AA-4802-B07B-0D1BFF2A52C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D13319-24AA-4802-B07B-0D1BFF2A52C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

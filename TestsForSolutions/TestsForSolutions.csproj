@@ -20,6 +20,7 @@
     <ProjectReference Include="..\src\EasyLevel\HashTable\HashTable.csproj" />
     <ProjectReference Include="..\src\WeeklyContest\179\179.csproj" />
     <ProjectReference Include="..\src\EasyLevel\DynamicProgramming\DynamicProgramming.csproj" />
+    <ProjectReference Include="..\src\EasyLevel\Trees\Trees.csproj" />
   </ItemGroup>
 
 </Project>
